@@ -59,8 +59,6 @@ export const TipTapExtensions = [
 ]
 
 export const QuasarTipTapExtensions = [
-  'OTitle',
-  'ODoc',
   'OParagraph',
   'OBlockquote',
   'OTodoItem',
